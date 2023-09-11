@@ -1,0 +1,112 @@
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\University Management System 2.exe.config
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\University Management System 2.exe
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\University Management System 2.pdb
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Properties.Resources.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.exe.licenses
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.csproj.CopyComplete
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.exe
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.pdb
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Department.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Home.resources
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Guna.UI2.dll
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Student.resources
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\UniversityDataBase.mdf
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\UniversityDataBase_log.ldf
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Campus.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Courses.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Fees.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Salaries.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Faculty.resources
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Login.resources
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.DialogBox.resources
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University_Management_System_2.Signup.resources
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HP\OneDrive\University Management System 2\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HP\OneDrive\University Management System 2\obj\Debug\University Management System 2.csproj.AssemblyReference.cache
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\UniversityDataBase.mdf
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\UniversityDataBase_log.ldf
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\University Management System 2.exe.config
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\University Management System 2.exe
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\University Management System 2.pdb
+C:\Users\FRİSBY\Desktop\University-Management-System-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.csproj.AssemblyReference.cache
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Campus.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Courses.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Department.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.DialogBox.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Faculty.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Fees.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Login.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Home.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Properties.Resources.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Salaries.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Signup.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University_Management_System_2.Student.resources
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.csproj.GenerateResource.cache
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.exe.licenses
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.csproj.CopyComplete
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.exe
+C:\Users\FRİSBY\Desktop\University-Management-System-master\obj\Debug\University Management System 2.pdb
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\UniversityDataBase.mdf
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\UniversityDataBase_log.ldf
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\University Management System 2.exe.config
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\University Management System 2.exe
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\University Management System 2.pdb
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.csproj.AssemblyReference.cache
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Campus.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Courses.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Department.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.DialogBox.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Faculty.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Fees.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Login.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Home.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Properties.Resources.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Salaries.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Signup.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University_Management_System_2.Student.resources
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.csproj.GenerateResource.cache
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.exe.licenses
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.csproj.CopyComplete
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.exe
+C:\Users\FRİSBY\Desktop\projeler\University-Management-System-master\obj\Debug\University Management System 2.pdb
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\bin\Debug\University Management System 2.exe.config
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\bin\Debug\University Management System 2.exe
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\bin\Debug\University Management System 2.pdb
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.csproj.AssemblyReference.cache
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Campus.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Courses.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Department.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.DialogBox.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Faculty.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Fees.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Login.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Home.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Properties.Resources.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Salaries.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Signup.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University_Management_System_2.Student.resources
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.csproj.GenerateResource.cache
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.exe.licenses
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.csproj.CopyComplete
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.exe
+C:\Users\topra\OneDrive\Masaüstü\University-Management-System-master\obj\Debug\University Management System 2.pdb
